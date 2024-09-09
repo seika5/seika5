@@ -1,16 +1,20 @@
-## Hi there 👋
-
-<!--
-**seika5/seika5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hello! I'm Ryan Mar
+<br/>
+# :sparkles: About Me
+I'm studying Computer Science and Engineering @ UC Merced <br/>
+I began coding with Minecraft command blocks when I was 10 Y/O. My coding journey ranged from text-based Java games to Django Python web projects. Now, I enjoy working with full stack React apps and ML.
+### :hammer_and_wrench: Credentials
+Experience:
+- SWE Intern @ The Department of Homeland Security
+# :round_pushpin: What Am I Doing?
+:clipboard: Currently I am:
+- Using synthetic data to train generative AI
+- Building fun/useful web apps
+- Grinding LeetCode
+- Applying to Jobs
+# :toolbox: Tech Stack
+[![Web Dev](https://skillicons.dev/icons?i=bootstrap,css,django,html,jquery,nextjs,nodejs,nuxtjs,react,tailwind,ts,vue&theme=dark)](https://skillicons.dev)
+<br/>
+[![Langs](https://skillicons.dev/icons?i=bash,c,cpp,java,js,mysql,py,sqlite&theme=dark)](https://skillicons.dev)
+<br/>
+[![Tools](https://skillicons.dev/icons?i=anaconda,aws,docker,firebase,flask,git,gitlab,opencv,pytorch,tensorflow,vercel&theme=dark)](https://skillicons.dev)
