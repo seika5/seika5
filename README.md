@@ -9,7 +9,7 @@ My coding journey began at 10 years old with Minecraft command blocks. My early 
 - Using synthetic data to train generative AI
 - Building fun/useful web apps
 - Grinding LeetCode
-- Applying to Jobs
+- Applying to internships
 ## :toolbox: Tech Stack
 [![Langs](https://skillicons.dev/icons?i=bash,c,cpp,java,js,mysql,py,sqlite&theme=dark)](https://skillicons.dev)
 <br/>
