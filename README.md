@@ -1,7 +1,7 @@
 ### Hello! I'm Ryan Mar
 # :sparkles: About Me
 I'm studying Computer Science and Engineering @ UC Merced <br/>
-I began coding with Minecraft command blocks when I was 10 Y/O. My coding journey ranged from text-based Java games to Django Python web projects. Now, I enjoy working with full stack React apps and ML.
+My coding journey began at 10 years old with Minecraft command blocks. My early experience ranged from text-based Java games to Django web projects. Now, I enjoy working with full stack React apps and ML.
 ### :hammer_and_wrench: Experience:
 - SWE Intern @ The Department of Homeland Security
 # :round_pushpin: What Am I Doing?
