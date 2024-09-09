@@ -12,8 +12,8 @@ Experience:
 - Grinding LeetCode
 - Applying to Jobs
 # :toolbox: Tech Stack
-[![Web Dev](https://skillicons.dev/icons?i=bootstrap,css,django,html,jquery,nextjs,nodejs,nuxtjs,react,tailwind,ts,vue&theme=dark)](https://skillicons.dev)
-<br/>
 [![Langs](https://skillicons.dev/icons?i=bash,c,cpp,java,js,mysql,py,sqlite&theme=dark)](https://skillicons.dev)
 <br/>
 [![Tools](https://skillicons.dev/icons?i=anaconda,aws,docker,firebase,flask,git,gitlab,opencv,pytorch,tensorflow,vercel&theme=dark)](https://skillicons.dev)
+[![Web Dev](https://skillicons.dev/icons?i=bootstrap,css,django,html,jquery,nextjs,nodejs,nuxtjs,react,tailwind,ts,vue&theme=dark)](https://skillicons.dev)
+<br/>
