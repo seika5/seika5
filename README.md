@@ -16,5 +16,3 @@ My coding journey began at 10 years old with Minecraft command blocks. My early 
 [![Tools](https://skillicons.dev/icons?i=anaconda,aws,docker,firebase,flask,git,gitlab,opencv,pytorch,tensorflow,vercel&theme=dark)](https://skillicons.dev)
 <br/>
 [![Web Dev](https://skillicons.dev/icons?i=bootstrap,css,django,html,jquery,nextjs,nodejs,nuxtjs,react,tailwind,ts,vue&theme=dark)](https://skillicons.dev)
-
-[![Seika5's GitHub stats](https://github-readme-stats.vercel.app/api?username=seika5)](https://github.com/anuraghazra/github-readme-stats)
