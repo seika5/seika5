@@ -3,6 +3,7 @@
 I'm studying Computer Science and Engineering @ UC Merced. <br/>
 My coding journey began at 10 years old with Minecraft command blocks. My early experience ranged from text-based Java games to Django web projects. Now, I enjoy working with full stack React apps and ML.
 ### :hammer_and_wrench: Experience:
+- SWE Project Lead @ Google Developer Group
 - SWE Intern @ U.S. Department of Homeland Security
 ## :round_pushpin: What Am I Doing?
 :clipboard: Currently I am:
