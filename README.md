@@ -7,7 +7,7 @@ My coding journey began at 10 years old with Minecraft command blocks. My early 
 - SWE Intern @ U.S. Department of Homeland Security
 ## :round_pushpin: What Am I Doing?
 :clipboard: Currently I am:
-- Leading a team of 46 student developers
+- Leading a team of 47 student developers
 - Using synthetic data to train generative AI
 - Grinding LeetCode
 - Applying to internships
