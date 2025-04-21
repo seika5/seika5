@@ -1,15 +1,16 @@
 ### Hello! I'm Ryan Mar
 ## :sparkles: About Me
 I'm studying Computer Science and Engineering @ UC Merced. <br/>
-My coding journey began at 10 years old with Minecraft command blocks. My early experience ranged from text-based Java games to Django web projects. Now, I enjoy working with full stack React apps and ML.
+My coding journey began at 10 years old with Minecraft command blocks. My early experience ranged from text-based Java games to Django web projects. Now, I enjoy building end-to-end system architecture and working with machine learning.
 ### :hammer_and_wrench: Experience:
-- SIG SWE Lead @ Association for Computing Machinery
-- SWE Project Lead @ Google Developer Group
+- Vice President @ Google Developer Group (UC Merced)
+- SIG SWE Lead @ Association for Computing Machinery (UC Merced)
+- SWE Project Lead @ Google Developer Group (UC Merced)
 - SWE Intern @ U.S. Department of Homeland Security
 ## :round_pushpin: What Am I Doing?
 :clipboard: Currently I am:
-- Using synthetic data to train generative AI
-- Grinding LeetCode
+- Building ML apps
+- Grinding NeetCode
 - Applying to internships
 ## :toolbox: Tech Stack
 [![Langs](https://skillicons.dev/icons?i=bash,c,cpp,java,js,mysql,py,sqlite&theme=dark)](https://skillicons.dev)
