@@ -1,7 +1,7 @@
 ### Hello! I'm Ryan Mar
 ## :sparkles: About Me
-I'm studying Computer Science and Engineering @ UC Merced. <br/>
-My coding journey began at 10 years old with Minecraft command blocks. My early experience ranged from text-based Java games to Django web projects. Now, I enjoy building end-to-end system architecture and working with machine learning.
+I'm studying Computer Science @ University of Southern California. <br/>
+My coding journey began at 10 years old with Minecraft command blocks, developing minigames to play with my friends. Now, I enjoy building end-to-end system architecture, working with machine learning, and solving real-world problems.
 ### :hammer_and_wrench: Experience:
 - Vice President @ Google Developer Group (UC Merced)
 - SIG SWE Lead @ Association for Computing Machinery (UC Merced)
@@ -9,12 +9,12 @@ My coding journey began at 10 years old with Minecraft command blocks. My early 
 - SWE Intern @ U.S. Department of Homeland Security
 ## :round_pushpin: What Am I Doing?
 :clipboard: Currently I am:
-- Building ML apps
+- Building applications
 - Grinding NeetCode
 - Applying to internships
 ## :toolbox: Tech Stack
-[![Langs](https://skillicons.dev/icons?i=bash,c,cpp,java,js,mysql,py&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,cpp,java,js,py,ts&theme=dark)](https://skillicons.dev)
 <br/>
-[![Tools](https://skillicons.dev/icons?i=aws,docker,firebase,flask,opencv,pytorch,tensorflow&theme=dark)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=django,nextjs,react,vue&theme=dark)](https://skillicons.dev)
 <br/>
-[![Web Dev](https://skillicons.dev/icons?i=bootstrap,django,nextjs,nodejs,nuxtjs,react,tailwind,ts,vue&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=aws,docker,firebase,mongodb,mysql&theme=dark)](https://skillicons.dev)
