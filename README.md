@@ -12,4 +12,4 @@ My coding journey began at 10 years old with Minecraft command blocks, developin
 <br/>
 [![Frameworks](https://skillicons.dev/icons?i=django,nextjs,react,vue&theme=dark)](https://skillicons.dev)
 <br/>
-[![Tools](https://skillicons.dev/icons?i=aws,docker,firebase,mongodb,mysql&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=aws,docker,firebase,mongodb,mysql,postgres&theme=dark)](https://skillicons.dev)
