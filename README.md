@@ -7,11 +7,6 @@ My coding journey began at 10 years old with Minecraft command blocks, developin
 - SIG SWE Lead @ Association for Computing Machinery (UC Merced)
 - SWE Project Lead @ Google Developer Group (UC Merced)
 - SWE Intern @ U.S. Department of Homeland Security
-## :round_pushpin: What Am I Doing?
-:clipboard: Currently I am:
-- Building applications
-- Grinding NeetCode
-- Applying to internships
 ## :toolbox: Tech Stack
 [![Languages](https://skillicons.dev/icons?i=c,cpp,java,js,py,ts&theme=dark)](https://skillicons.dev)
 <br/>
