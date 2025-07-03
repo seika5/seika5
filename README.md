@@ -9,7 +9,7 @@ My coding journey began at 10 years old with Minecraft command blocks, developin
 - Project Lead @ Google Developer Group (UC Merced)
 - SWE Intern @ U.S. Department of Homeland Security
 ## :toolbox: Tech Stack
-[![Languages](https://skillicons.dev/icons?i=bash,c,cpp,java,js,py,ts&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=bash,c,cpp,css,html,java,js,py,ts&theme=dark)](https://skillicons.dev)
 <br/>
 [![Frameworks](https://skillicons.dev/icons?i=django,express,nextjs,nodejs,react,spring,vue&theme=dark)](https://skillicons.dev)
 <br/>
