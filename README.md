@@ -4,7 +4,7 @@ I'm studying Computer Science @ University of Southern California. <br/> <br/>
 My coding journey began at 10 years old with Minecraft command blocks, developing minigames to play with my friends.
 ### :hammer_and_wrench: Experience:
 - TDOE Intern @ Jane Street
-- SWE Intern @ Docflow Labs Inc.
+- SWE Intern @ Docflow Labs
 - SWE Intern @ U.S. Department of Homeland Security
 ## :toolbox: Tech Stack
 [![Languages](https://skillicons.dev/icons?i=bash,c,cpp,css,html,java,js,py,ts&theme=dark)](https://skillicons.dev)
