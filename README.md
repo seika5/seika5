@@ -5,9 +5,6 @@ My coding journey began at 10 years old with Minecraft command blocks, developin
 ### :hammer_and_wrench: Experience:
 - TDOE Intern @ Jane Street
 - SWE Intern @ Docflow Labs Inc.
-- Vice President @ Google Developer Group (UC Merced)
-- SIG SWE Lead @ Association for Computing Machinery (UC Merced)
-- Project Lead @ Google Developer Group (UC Merced)
 - SWE Intern @ U.S. Department of Homeland Security
 ## :toolbox: Tech Stack
 [![Languages](https://skillicons.dev/icons?i=bash,c,cpp,css,html,java,js,py,ts&theme=dark)](https://skillicons.dev)
